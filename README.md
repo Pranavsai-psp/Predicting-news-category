@@ -7,10 +7,10 @@ Story:  A part of the main content of the article to be published as a piece of 
 Section: The genre/category the Story falls in. There are four distinct sections where each story may fall in to. 
 
 The Sections are labelled as following
-*Politics: 0 
-*Technology: 1 
-*Entertainment: 2 
-*Business: 3
+* Politics: 0 
+* Technology: 1 
+* Entertainment: 2 
+* Business: 3
 
 # Metric
 The leaderboard is evaluated on the standard accuracy_score metric from sklearn
