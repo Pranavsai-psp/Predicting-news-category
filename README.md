@@ -4,7 +4,7 @@ From the beginning, since the first printed newspaper, every news that makes int
 # Features: 
 Story:  A part of the main content of the article to be published as a piece of news. 
 
-Section: The genre/category the STORY falls in. There are four distinct sections where each story may fall in to. 
+Section: The genre/category the Story falls in. There are four distinct sections where each story may fall in to. 
 
 The Sections are labelled as following
 *Politics: 0 
