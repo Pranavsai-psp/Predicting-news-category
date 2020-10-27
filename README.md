@@ -16,5 +16,5 @@ The Sections are labelled as following
 The leaderboard is evaluated on the standard accuracy_score metric from sklearn
 
 # Leaderboard
-score : 0.98836
-leaderboard : 11 (as of 22-sept-2020)
+score : 0.98908
+leaderboard : 9 (as of 27-oct-2020)
